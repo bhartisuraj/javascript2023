@@ -17,9 +17,10 @@
 // console.log(null <= 0 );
 
 
-console.log(undefined > 0 );
-console.log(undefined < 0 );
-console.log(undefined == 0 );
-console.log(undefined >= 0 );
-console.log(undefined <= 0 );
+// console.log(undefined > 0 );
+// console.log(undefined < 0 );
+// console.log(undefined == 0 );
+// console.log(undefined >= 0 );
+// console.log(undefined <= 0 );
 
+// == vs === :- === means not just check values also check datatype, whereas == check only values.
