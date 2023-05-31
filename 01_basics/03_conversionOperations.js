@@ -55,11 +55,11 @@ let str3 = str1+ str2;
 // console.log(1 + 2 + "2"); // Here js added first and second value and printed third value as it is.
 // console.log(1 + "2" + 2); // Here js printed first, second and third value as it is.
 // console.log("1" + 2 + 2); // Here js printed first, second and third value as it is.
-
 // console.log( 3 + 4 * 5 % 3); // code is write but its recommended not to write complex calculation. 
+
 // console.log(+true); // Output is 1
 //console.log(true+); // Statement is incorrect
-// console.log(+""); // Output is 0
+//console.log(""+); // Output is 0
 
 let num1, num2, num3;
 num1 = num2 = num3 = 2+2;
