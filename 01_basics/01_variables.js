@@ -13,7 +13,8 @@ accountCity = "Thane";
 //console.log(accountId);
 
 /*
-Prefer not use var bacause of issue in block scope and functional scope
+Prefer not use var
+bacause of issue in block scope and functional scope
 */
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
