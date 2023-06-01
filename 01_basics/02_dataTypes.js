@@ -4,7 +4,8 @@
 
 console.log( 3 
     +
-    3 ); // Code readability should be high
+    3 ); // Code readability should be high 
+
 console.log("suraj");
 
 let name = "suraj";
