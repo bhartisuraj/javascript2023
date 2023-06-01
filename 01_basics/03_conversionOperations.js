@@ -15,7 +15,7 @@ let valueInNumber = Number(score);
 let isLoggedIn = 1;
 
 let booleanIsLoggedIn = Boolean(isLoggedIn);
-// console.log(booleanIsLoggedIn);
+//console.log(booleanIsLoggedIn);
 
 // example is of output we get when we convert following thing to boolean.
 // 1 => true; 0 => false;
@@ -25,10 +25,10 @@ let booleanIsLoggedIn = Boolean(isLoggedIn);
 let someNumber = 33;
 let stringNumber = String(someNumber);
 
-// console.log(stringNumber);
-// console.log(typeof stringNumber);
+console.log(stringNumber);
+console.log(typeof stringNumber);
 
-// ********************************Operations***************************
+// ******************************** Operations ***************************
 
 let value = 3;
 let negValue = -value;
