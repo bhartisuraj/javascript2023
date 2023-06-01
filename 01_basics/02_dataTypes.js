@@ -12,7 +12,7 @@ let name = "suraj";
 let age = 18;
 let isLoggedIn = false;
 
-// number => 2 to power 53
+// number => range of number is 2 to power 53
 // bigint => We use bigint when numbers of digit is long.
 // string => Text inside single/double quotes.
 // boolean => just true/false. Something is true or false.
