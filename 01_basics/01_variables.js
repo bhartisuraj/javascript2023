@@ -17,3 +17,11 @@ Prefer not use var bacause of issue in block scope and functional scope
 */
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
+
+// console.log(typeof accountId);
+// console.log(typeof accountEmail);
+// console.log(typeof accountPassword);
+// console.log(typeof accountCity);
+// console.log(typeof accountState);
+
+// console.table([typeof accountId, typeof accountEmail, typeof accountPassword, typeof accountCity, typeof accountState]);
