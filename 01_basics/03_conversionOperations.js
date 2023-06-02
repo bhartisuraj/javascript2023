@@ -25,8 +25,8 @@ let booleanIsLoggedIn = Boolean(isLoggedIn);
 let someNumber = 33;
 let stringNumber = String(someNumber);
 
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
 
 // ******************************** Operations ***************************
 
@@ -37,9 +37,9 @@ let negValue = -value;
 // console.log(2+2); // 2 plus 2
 // console.log(2-2); // 2 minus 2
 // console.log(2*2); // 2 multiply by 2
-// console.log(2**2); // 2 to the power 2
-// console.log(2/2); // 2 divide 2 (Quotent)
-// console.log(2%2); // 2 modulus 2 (Remainder)
+// console.log(2**3); // 2 raise to the power 3
+// console.log(2/3); // 2 divide 2 (Quotent )
+// console.log(2%3); // 2 modulus 2 (Remainder)
 
 let str1 = "hello";
 let str2 = " suraj";
