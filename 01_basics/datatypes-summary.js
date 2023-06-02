@@ -2,7 +2,7 @@
 
     a.Primitive data types (Call by value) - String, Number, Boolean, null, undefined, Symbol, BigInt.(What ever changes you do in it you do it in copy).
     
-    b.Non-Primitive data types (Reference type) - Array, Objects, Functions.(What ever changes you do in it you do it in original copy).
+    b.Non-Primitive data types (Reference type) - Array, Objects, Functions.(What ever changes you do in it you do it in Reference copy).
 */
 
 // Javascript is Dynamically typed language because we don't have to specify variables datatype (int, string, boolean etc).
