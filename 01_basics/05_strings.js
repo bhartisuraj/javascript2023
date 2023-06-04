@@ -43,6 +43,6 @@ const str2 = 'world';
 
 // console.log(url.includes('suraj')); // This function checks give text/string is present in string or not by giving value true and false
 
-// const newSplitText = "hello suraj kumar bharti ";
-// const newSplittedText = newSplitText.split(' ');
-// console.log(newSplittedText[1]);// split function:- We gives sentence and mentions seprator will be and get the word which is on mentioned index.
+const newSplitText = "hello suraj kumar bharti ";
+const newSplittedText = newSplitText.split(' ');
+console.log(newSplittedText[1]);// split function:- We gives sentence and mentions seprator will be and get the word which is on mentioned index.
